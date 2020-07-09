@@ -2,7 +2,6 @@
 #include <iostream>
 #include "Eigen/Dense"
 #include "tools.h"
-#include "math.h"
 
 using Eigen::MatrixXd;
 using Eigen::VectorXd;
